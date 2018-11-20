@@ -201,7 +201,7 @@ input.c-input_text--with_error:focus, input.c-input_text--with_error:hover, inpu
 }
 blockquote.c-mrkdwn__quote::before {
     background-image: initial;
-    background-color: #1e2026;
+    background-color: #8b92a5;
 }
 .c-sidebar_menu__divider {
     border-right-color: initial;
@@ -16940,7 +16940,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #d6d4cf;
 }
 .c-message_attachment__border {
-    background-color: #1d1f24;
+    background-color: #8b92a5;
 }
 .c-message_attachment__delete {
     background-image: none;
